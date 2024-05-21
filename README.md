@@ -5,6 +5,3 @@ I created this notebook to learn about Neural ODE's and how to implement them in
 I think there is an error in the adjoint based method, however I have not found it yet. 
 
 ![Neural ODE](img.png)
-
-
-
